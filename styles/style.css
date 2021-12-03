@@ -1,0 +1,1242 @@
+body {
+  overflow-x: hidden;
+  background-color: #ebebec !important;
+}
+.header {
+  background-color: #ebebec;
+  height: 100vh;
+  width: 100%;
+}
+
+.navbar-brand {
+  margin-top: -5px;
+}
+.first-nav .nav-link {
+  font-size: 13px;
+  color: #d9d9d9 !important;
+  padding-left: 35px !important;
+}
+.first-nav .nav-link:hover {
+  color: white;
+  cursor: pointer;
+}
+.first-nav .search-icon {
+  margin-top: 4px;
+  margin-left: 20px;
+}
+.first-nav .buy-icon {
+  margin-top: -3px;
+  margin-left: 40px;
+}
+.second-nav .nav-link {
+  font-size: 13px;
+}
+.buy-btn {
+  border-radius: 20px;
+  width: 60px;
+  height: 35px;
+}
+.header-content {
+  padding: 90px 0;
+  text-align: center;
+  position: relative;
+}
+.header-content .airpod-title {
+  font-size: 140px !important;
+}
+.header-content .airpod-para {
+  font-size: 25px !important;
+  padding-top: -40px !important;
+}
+.airpod-img-left {
+  position: absolute;
+  top: -150px;
+  left: 150px;
+}
+.airpod-img-right {
+  position: absolute;
+  right: 120px;
+  top: 40%;
+}
+.second-nav-menu {
+  /* z-index: 5; */
+  /* backdrop-filter: blur(20px); */
+  background-color: rgba(247, 245, 245, 0.911);
+}
+.first-nav-menu {
+  z-index: 5;
+}
+.view-video-content {
+  position: absolute;
+  top: 85%;
+  left: 40%;
+}
+.film-event {
+  font-weight: bold;
+  font-size: 20px;
+}
+.animation-content {
+  z-index: 5 !important;
+  height: 100vh;
+  width: 100%;
+  background-color: #ebebec;
+}
+.animation-content > div {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+.anime-img0 {
+  height: 100vh !important;
+  width: 100% !important;
+  background-image: url("https://www.apple.com/v/airpods-3rd-generation/b/images/overview/value-props/spatial_spiral__kekq9zxjllme_large.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+}
+.anime-img0 p {
+  position: absolute;
+  top: 35%;
+  left: 39%;
+  right: 0;
+  bottom: 0;
+  transform: translate(10%, 20%);
+  font-size: 40px;
+}
+.anime-img1 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0000.jpg");
+}
+.anime-img2 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0001.jpg");
+}
+.anime-img3 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0002.jpg");
+}
+.anime-img4 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0003.jpg");
+}
+.anime-img5 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0004.jpg");
+}
+.anime-img6 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0005.jpg");
+}
+.anime-img7 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0006.jpg");
+}
+.anime-img8 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0007.jpg");
+}
+.anime-img9 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0008.jpg");
+}
+.anime-img10 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0009.jpg");
+}
+.anime-img11 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0010.jpg");
+}
+.anime-img12 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0011.jpg");
+}
+.anime-img13 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0012.jpg");
+}
+.anime-img14 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0013.jpg");
+}
+.anime-img15 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0014.jpg");
+}
+.anime-img16 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0015.jpg");
+}
+.anime-img17 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0016.jpg");
+}
+.anime-img18 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0017.jpg");
+}
+.anime-img19 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0018.jpg");
+}
+.anime-img20 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0019.jpg");
+}
+.anime-img21 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0020.jpg");
+}
+.anime-img22 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0021.jpg");
+}
+.anime-img23 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0022.jpg");
+}
+.anime-img24 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0023.jpg");
+}
+.anime-img25 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0024.jpg");
+}
+.anime-img26 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0025.jpg");
+}
+.anime-img27 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0026.jpg");
+}
+.anime-img28 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0027.jpg");
+}
+.anime-img29 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0028.jpg");
+}
+.anime-img30 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0029.jpg");
+}
+.anime-img31 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0030.jpg");
+}
+.anime-img32 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0031.jpg");
+}
+.anime-img33 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0032.jpg");
+}
+.anime-img34 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0033.jpg");
+}
+.anime-img35 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0034.jpg");
+}
+.anime-img36 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0035.jpg");
+}
+.anime-img37 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0036.jpg");
+}
+.anime-img38 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0037.jpg");
+}
+.anime-img39 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0038.jpg");
+}
+.anime-img39 span {
+  position: absolute;
+  top: 30%;
+  left: 17%;
+  right: 19%;
+  bottom: 0;
+  transform: translate(0%, 30%);
+  font-size: 81px;
+  color: white;
+}
+.anime-img40 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0039.jpg");
+}
+.anime-img41 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0040.jpg");
+}
+.anime-img42 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0041.jpg");
+}
+.anime-img43 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0042.jpg");
+}
+.anime-img44 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0043.jpg");
+}
+.anime-img45 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0044.jpg");
+}
+.anime-img46 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0045.jpg");
+}
+.anime-img47 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0046.jpg");
+}
+.anime-img48 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0047.jpg");
+}
+.anime-img49 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0048.jpg");
+}
+.anime-img50 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0049.jpg");
+}
+.anime-img51 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0050.jpg");
+}
+.anime-img52 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0051.jpg");
+}
+.anime-img53 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0052.jpg");
+}
+.anime-img54 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0053.jpg");
+}
+.anime-img55 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0054.jpg");
+}
+.anime-img56 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0055.jpg");
+}
+.anime-img57 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0056.jpg");
+}
+.anime-img58 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0057.jpg");
+}
+.anime-img59 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0058.jpg");
+}
+.anime-img60 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0059.jpg");
+}
+.anime-img61 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0060.jpg");
+}
+.anime-img62 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0061.jpg");
+}
+.anime-img63 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0062.jpg");
+}
+.anime-img64 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0063.jpg");
+}
+.anime-img65 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0064.jpg");
+}
+.anime-img66 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0065.jpg");
+}
+.anime-img67 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0066.jpg");
+}
+.anime-img68 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0067.jpg");
+}
+.anime-img69 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0068.jpg");
+}
+.anime-img70 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0069.jpg");
+}
+.anime-img71 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0070.jpg");
+}
+.anime-img72 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0071.jpg");
+}
+.anime-img73 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0072.jpg");
+}
+.anime-img74 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0073.jpg");
+}
+.anime-img75 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0074.jpg");
+}
+.anime-img76 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0075.jpg");
+}
+.anime-img77 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0076.jpg");
+}
+.anime-img78 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0077.jpg");
+}
+.anime-img79 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0078.jpg");
+}
+.anime-img80 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0079.jpg");
+}
+.anime-img81 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0080.jpg");
+}
+.anime-img82 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0081.jpg");
+}
+.anime-img83 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0082.jpg");
+}
+.anime-img84 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0083.jpg");
+}
+.anime-img85 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0084.jpg");
+}
+.anime-img86 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0085.jpg");
+}
+.anime-img87 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0086.jpg");
+}
+.anime-img88 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0087.jpg");
+}
+.anime-img89 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0088.jpg");
+}
+.anime-img90 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0089.jpg");
+}
+.anime-img91 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0090.jpg");
+}
+.anime-img92 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0091.jpg");
+}
+.anime-img93 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0092.jpg");
+}
+.anime-img94 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0093.jpg");
+}
+.anime-img95 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0094.jpg");
+}
+.anime-img96 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0095.jpg");
+}
+.anime-img97 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0096.jpg");
+}
+.anime-img98 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0097.jpg");
+}
+.anime-img99 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0098.jpg");
+}
+.anime-img100 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0099.jpg");
+}
+.anime-img101 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0100.jpg");
+}
+.anime-img102 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0101.jpg");
+}
+.anime-img103 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0102.jpg");
+}
+.anime-img104 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0103.jpg");
+}
+.anime-img105 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0104.jpg");
+}
+.anime-img106 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0105.jpg");
+}
+.anime-img107 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0106.jpg");
+}
+.anime-img108 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0107.jpg");
+}
+.anime-img109 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0108.jpg");
+}
+.anime-img110 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0109.jpg");
+}
+.anime-img111 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0110.jpg");
+}
+.anime-img112 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0111.jpg");
+}
+.anime-img113 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0112.jpg");
+}
+.anime-img114 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0113.jpg");
+}
+.anime-img115 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0114.jpg");
+}
+.anime-img116 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0115.jpg");
+}
+.anime-img117 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0116.jpg");
+}
+.anime-img118 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0117.jpg");
+}
+.anime-img119 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0118.jpg");
+}
+.anime-img120 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0119.jpg");
+}
+.anime-img121 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0120.jpg");
+}
+.anime-img122 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0121.jpg");
+}
+.anime-img123 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0122.jpg");
+}
+.anime-img124 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0123.jpg");
+}
+.anime-img125 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0124.jpg");
+}
+.anime-img126 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0125.jpg");
+}
+.anime-img127 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0126.jpg");
+}
+.anime-img128 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0127.jpg");
+}
+.anime-img129 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0128.jpg");
+}
+.anime-img130 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0129.jpg");
+}
+.anime-img131 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0130.jpg");
+}
+.anime-img132 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0131.jpg");
+}
+.anime-img133 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0132.jpg");
+}
+.anime-img134 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0133.jpg");
+}
+.anime-img135 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0134.jpg");
+}
+.anime-img136 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0135.jpg");
+}
+.anime-img137 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0136.jpg");
+}
+.anime-img138 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0137.jpg");
+}
+.anime-img139 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0138.jpg");
+}
+.anime-img140 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0139.jpg");
+}
+.anime-img141 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0140.jpg");
+}
+.anime-img142 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0141.jpg");
+}
+.anime-img143 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0142.jpg");
+}
+.anime-img144 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0143.jpg");
+}
+.anime-img145 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0144.jpg");
+}
+.anime-img146 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0145.jpg");
+}
+.anime-img147 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0146.jpg");
+}
+.anime-img148 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0147.jpg");
+}
+.anime-img149 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0148.jpg");
+}
+.anime-img150 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0149.jpg");
+}
+.anime-img151 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0150.jpg");
+}
+.anime-img152 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0151.jpg");
+}
+.anime-img153 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0152.jpg");
+}
+.anime-img154 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0153.jpg");
+}
+.anime-img155 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0154.jpg");
+}
+.anime-img156 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0155.jpg");
+}
+.anime-img157 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0156.jpg");
+}
+.anime-img158 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0157.jpg");
+}
+.anime-img159 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0158.jpg");
+}
+.anime-img160 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0159.jpg");
+}
+.anime-img161 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0160.jpg");
+}
+.anime-img162 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0161.jpg");
+}
+.anime-img163 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0162.jpg");
+}
+.anime-img164 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0163.jpg");
+}
+.anime-img165 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0164.jpg");
+}
+.anime-img166 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0165.jpg");
+}
+.anime-img167 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0166.jpg");
+}
+.anime-img168 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0167.jpg");
+}
+.anime-img169 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0168.jpg");
+}
+.anime-img170 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0169.jpg");
+}
+.anime-img171 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0170.jpg");
+}
+.anime-img172 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0171.jpg");
+}
+.anime-img173 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0172.jpg");
+}
+.anime-img1714 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0173.jpg");
+}
+.anime-img175 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0174.jpg");
+}
+.anime-img176 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0175.jpg");
+}
+.anime-img177 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0176.jpg");
+}
+.anime-img178 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0177.jpg");
+}
+.anime-img179 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0178.jpg");
+}
+.anime-img180 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0179.jpg");
+}
+.anime-img181 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0180.jpg");
+}
+.anime-img182 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0181.jpg");
+}
+.anime-img183 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0182.jpg");
+}
+.anime-img184 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0183.jpg");
+}
+.anime-img185 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0184.jpg");
+}
+.anime-img186 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0185.jpg");
+}
+.anime-img187 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0186.jpg");
+}
+.anime-img188 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0187.jpg");
+}
+.anime-img189 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0188.jpg");
+}
+.anime-img190 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0189.jpg");
+}
+.anime-img191 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0190.jpg");
+}
+.anime-img192 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0191.jpg");
+}
+.anime-img193 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0192.jpg");
+}
+.anime-img194 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0193.jpg");
+}
+.anime-img195 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0194.jpg");
+}
+.anime-img196 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0195.jpg");
+}
+.anime-img197 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0196.jpg");
+}
+.anime-img198 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0197.jpg");
+}
+.anime-img199 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0198.jpg");
+}
+.anime-img200 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0199.jpg");
+}
+.anime-img201 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0200.jpg");
+}
+.anime-img202 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0201.jpg");
+}
+.anime-img203 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0202.jpg");
+}
+.anime-img204 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0203.jpg");
+}
+.anime-img205 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0204.jpg");
+}
+.anime-img206 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0205.jpg");
+}
+.anime-img207 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0206.jpg");
+}
+.anime-img208 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0207.jpg");
+}
+.anime-img209 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0208.jpg");
+}
+.anime-img210 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0209.jpg");
+}
+.anime-img211 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0210.jpg");
+}
+.anime-img212 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0211.jpg");
+}
+.anime-img213 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0212.jpg");
+}
+.anime-img214 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0213.jpg");
+}
+.anime-img215 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/spatial-audio/large/0214.jpg");
+}
+.anime-img216 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0000.jpg");
+}
+.anime-img217 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0001.jpg");
+}
+.anime-img218 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0002.jpg");
+}
+.anime-img219 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0003.jpg");
+}
+.anime-img220 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0004.jpg");
+}
+.anime-img221 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0005.jpg");
+}
+.anime-img222 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0006.jpg");
+}
+.anime-img223 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0007.jpg");
+}
+.anime-img221 span,.anime-img222 span {
+  position: absolute;
+  top: 30%;
+  left: 17%;
+  right: 19%;
+  bottom: 0;
+  transform: translate(0%, 30%);
+  font-size: 95px;
+  color: white;
+}
+.anime-img224 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0008.jpg");
+}
+.anime-img225 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0009.jpg");
+}
+.anime-img226 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0010.jpg");
+}
+.anime-img227 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0011.jpg");
+}
+.anime-img228 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0012.jpg");
+}
+.anime-img229 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0013.jpg");
+}
+.anime-img230 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0014.jpg");
+}
+.anime-img231 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0015.jpg");
+}
+.anime-img232 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0016.jpg");
+}
+.anime-img233 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0017.jpg");
+}
+.anime-img234 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0018.jpg");
+}
+.anime-img235 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0019.jpg");
+}
+.anime-img236 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0020.jpg");
+}
+.anime-img237 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0021.jpg");
+}
+.anime-img238 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0022.jpg");
+}
+.anime-img239 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0023.jpg");
+}
+.anime-img240 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0024.jpg");
+}
+.anime-img241 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0025.jpg");
+}
+.anime-img242 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0026.jpg");
+}
+.anime-img243 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0027.jpg");
+}
+.anime-img239 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0028.jpg");
+}
+.anime-img240 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0029.jpg");
+}
+.anime-img241 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0030.jpg");
+}
+.anime-img242 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0031.jpg");
+}
+.anime-img243 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0032.jpg");
+}
+.anime-img244 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0033.jpg");
+}
+.anime-img245 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0034.jpg");
+}
+.anime-img246 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0035.jpg");
+}
+.anime-img247 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0036.jpg");
+}
+.anime-img248 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0037.jpg");
+}
+.anime-img249 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0038.jpg");
+}
+.anime-img250 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0039.jpg");
+}
+.anime-img251 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0040.jpg");
+}
+.anime-img252 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0041.jpg");
+}
+.anime-img253 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0042.jpg");
+}
+.anime-img254 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0043.jpg");
+}
+.anime-img255 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0044.jpg");
+}
+.anime-img256 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0045.jpg");
+}
+.anime-img257 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0046.jpg");
+}
+.anime-img258 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0047.jpg");
+}
+.anime-img259 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0048.jpg");
+}
+.anime-img260 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0049.jpg");
+}
+.anime-img261 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0050.jpg");
+}
+.anime-img262 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0051.jpg");
+}
+.anime-img263 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0052.jpg");
+}
+.anime-img264 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0053.jpg");
+}
+.anime-img265 {
+  background-image: url("https://www.apple.com/105/media/us/airpods-3rd-generation/2021/3c0b27aa-a5fe-4365-a9ae-83c28d10fa21/anim/battery/large/0054.jpg");
+}
+.spatial-audio {
+  height: 585px;
+  width: 820px;
+  border-radius: 25px;
+  padding: 100px;
+  font-size: 17px;
+  background-color: #fff !important;
+  font-weight: 600;
+  background: url("../assets/images/spatial_spiral__kekq9zxjllme_medium.png")
+    no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+.base-hits-left,
+.base-hits-right,
+.style-left {
+  height: 600px;
+  width: 393px !important;
+  background-color: #fff;
+  margin: 7px;
+  border-radius: 25px;
+}
+.base-instant-right{
+  height: 500px;
+  width: 393px !important;
+  background-color: #fff;
+  margin: 7px;
+  border-radius: 25px;
+}
+.style-left {
+  background: url("https://www.apple.com/v/airpods-3rd-generation/b/images/overview/value-props/one_size_fit__bsld2w44szci_small.jpg")
+    no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.base-hits-left {
+  background: url("../assets/images/adaptive_eq__fh6rplqneium_large_2x.jpg")
+    no-repeat;
+  background-size: contain;
+  position: relative;
+}
+.base-hits-left span,
+.style-left span {
+  position: absolute;
+  bottom: 0;
+  text-align: justify;
+  color: #fff;
+  font-weight: 600;
+}
+.base-h1 {
+  font-size: 64px;
+  line-height: 58px;
+  text-align: left;
+  color: #1d1d1d;
+  font-weight: 600;
+}
+.base-span-right {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 23px;
+  text-align: left;
+  color: #86868b;
+}
+.mute-div,
+.instant-connection {
+  height: 585px;
+  width: 820px;
+  border-radius: 25px;
+  padding: 100px;
+  font-size: 17px;
+  background-color: #fff !important;
+  font-weight: 600;
+}
+.instant-connection{
+  margin-left: 130px;
+  margin-top: 40px !important;
+}
+.sense {
+  height: 260px;
+  width: 820px;
+  border-radius: 25px;
+  padding: 80px;
+  font-size: 17px;
+  background-color: #fff !important;
+  font-weight: 600;
+  margin-left: 125px;
+}
+.img-div {
+  position: relative;
+  height: 580px !important;
+  min-width: 398px;
+}
+.img-phone img {
+  position: relative;
+  height: 500px;
+  min-width: 398px;
+}
+.airpods-noise {
+  position: absolute;
+  left: -98px !important;
+  top: 0px;
+}
+.siri {
+  font-size: 38px;
+  font-weight: 700 !important;
+  background-image: linear-gradient(163deg, #cd4dca, #7460cb 44%, #1ab4d5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.siri-2 {
+  font-size: 38px;
+  font-weight: 700 !important;
+  background-image: linear-gradient(156deg, #7d61c2, #c740a3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.siri-span-right {
+  position: absolute;
+  bottom: 10px;
+}
+.force-sensor-card{
+  background-color: #FFFFFF;
+  border-radius: 1rem;
+  height: auto;
+  width: 75%;
+  margin-left: 145px;
+
+}
+.force-sensor-card .force-sensor-data{
+  padding: 0 0 0 46px;
+}
+.force-sensor-card .force-sensor-data h2{
+  font-size: 64px;
+  line-height: .90625;
+  font-weight: 600;
+  letter-spacing: -0.003em;
+}
+.force-sensor-card p{
+  color: #C2C2C5;
+  font-size: 19px;
+  line-height: 1.2105263158;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.force-first-content{
+  padding: 30px 45px 0px 30px;
+  background: #FFFFFF;
+  border-radius: 20px;
+  width: 75%;
+  margin-left: 120px;
+
+}
+.force-first-content h2{
+  font-size: 64px;
+  line-height: .98625;
+  font-weight: 600;
+  letter-spacing: -0.003em;
+}
+.force-first-content p{
+  color: #86868B;
+  font-size: 19px;
+  line-height: 1.2105263158;
+  font-weight: 600;
+  letter-spacing: 0em;
+}
+.force-first-content img{
+  width: 320px;
+  height: 400px;
+  margin-top: 5px;
+}
+.force-second-content{
+  padding: 50px 50px 0px 50px;
+  background: #FFFFFF;
+  border-radius: 20px;
+  width: 75%;
+  height: 700px;
+}
+.force-second-content p{
+  font-size: 17px;
+  line-height: 1.2941176471;
+  font-weight: 600;
+  letter-spacing: .013em;
+  color: #86868B;
+}
+.force-second-content p span{
+  color: black;
+}
+.force-second-content video{
+  width: 320px;
+  height: 450px;
+  margin-top: -40px;
+}
+.force-third-content{
+  padding: 30px;
+  border-radius: 20px;
+  background: linear-gradient(180deg,#8be962 29%,#6cd179 87%);
+  width: 76%;
+  margin-left: 120px;
+  margin-top: -40px;
+}
+.force-third-content h1{
+  font-size: 100px;
+}
+.force-third-content p{
+  padding:10px 55px 10px 20px;
+  font-size: 28px;
+  line-height: 1.1428571429;
+  font-weight: 600;
+  letter-spacing: -0.014em;
+}
+.base-siri-left{
+  margin-left: 130px;
+}
+.base-siri-right{
+  margin-left: 50px;
+}
+.AR{
+  width: 100vw;
+  height: 50vh;
+  background: #FAFAFA;
+  
+}
+.airpod-card{
+  font-size: 24px;
+  font-weight: 600;
+}
+.user-font{
+  font-size: 40px;
+}
+.buy-airpod{
+  width: 100vw;
+}
+/* @media only screen and (max-width: 1068px){
+  .force-sensor-card .force-sensor-data h2{
+      font-size: 56px;
+      line-height: .9286514286;
+      font-weight: 600;
+      letter-spacing: -0.003em;
+      
+  }
+  .force-sensor-card p{
+      font-size: 17px;
+      line-height: 1.2941176471;
+      font-weight: 600;
+      letter-spacing: .013em;
+  }
+  .force-first-content{
+      padding: 25px 35px 0px 25px;
+  }
+  .force-second-content{
+      padding: 30px 30px 0px 30px;
+  }
+  .force-first-content img{
+      width: 280px;
+      height: 350px;
+  }
+  .force-second-content video{
+      width: 280px;
+      height: 430px;    
+  }
+  .force-third-content{
+      margin: 0px !important;;
+  }
+  .force-third-content p{
+      padding:10px;
+      font-size: 22px;
+  }
+}
+@media only screen and (max-width: 734px){
+  .force-sensor-card{
+      margin: -30px;
+      width: 363px !important;
+      height: 724px !important;
+  }
+  .force-sensor-card .force-sensor-data{
+      padding: 32px;
+  }
+  .force-sensor-card .force-sensor-data h2{
+      font-size: 40px;
+      line-height: 1.05;
+      font-weight: 600;
+      letter-spacing: -0.003em;
+  }
+  .force-sensor-card p{
+      font-size: 17px;
+      line-height: 1.2941176471;
+      font-weight: 600;
+      letter-spacing: .013em;
+
+  }
+  .force-sensor-image-container{
+      padding:0px 90px;
+  }
+  .force-sensor-image-container img{
+      width: 187px;
+      height: 438px;
+  }
+  .force-contents{
+      display: flex;
+      flex-direction: column-reverse;
+  }
+} */
